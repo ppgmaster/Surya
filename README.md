@@ -26,24 +26,24 @@ $ apt update
 $ apt upgrade
 $ pkg install python2
 $ pkg install git
-$ git clone https://github.com/SHAHZAIN-SDJ/SDJ-PRO
+$ git clone https://github.com/ppgmaster/Surya
 $ pip2 install requests bs4
 $ pip2 install futures
 ```
 #### Run script
 ```bash
-$ cd SDJ-PRO
-$ python2 SDJ
+$ cd Surya
+$ python2 Surya
 ```
 #### MY SOCIAL MEDIA
 
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/SHAHZAIN-SDJ) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/sdj)
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/ppgmaster/Surya[![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/sdj)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/HATERZKAABBUGZAINI2)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/sdj/) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/923417264556?text=Asalamualaikum+bro)
 
 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/SHAHZAIN-SDJ/count.svg" />
+ <img src="https://profile-counter.glitch.me/ppgmaster/count.svg" />
 </p>
-CREDIT TO : https://github.com/yayan-XD
+CREDIT TO :https://github.com/ppgmaster/Surya
 ##### Notice Me : Please SUBSCRIBE OUR YOUTUBE CHANNEL
 
 
